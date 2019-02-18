@@ -7,7 +7,7 @@
         <artifactId>unit-testing-sda</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>figures-tests</artifactId>
-    <name>figures-tests</name>
+    <artifactId>converters-tests</artifactId>
+    <name>converters-tests</name>
 
 </project>
