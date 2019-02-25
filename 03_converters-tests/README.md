@@ -15,7 +15,7 @@ Run existing test located inside `LengthTests`. It should pass.
 * `Kelvin` to `Fahrenheit` 
 * `Fahrenheit` to `Celsius`
 * `Fahrenheit` to `Kelvin`
-4. Each of above classes should throw exception whenever value is higher than `300` or lower than `-300` units
+4. Each of above classes should throw `InvalidParameterException` exception whenever value is higher than `300` or lower than `-300` units
 5. Add tests covering this feature.
 
 
