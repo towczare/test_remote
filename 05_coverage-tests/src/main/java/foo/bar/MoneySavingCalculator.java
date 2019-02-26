@@ -1,7 +1,6 @@
 package foo.bar;
 
 import java.math.BigDecimal;
-import java.time.Duration;
 import java.time.Period;
 
 public class MoneySavingCalculator {
