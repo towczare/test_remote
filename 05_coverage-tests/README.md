@@ -9,8 +9,6 @@ TLDR: `Latte Factor - (economics) The phenomenon whereby many small purchases ad
 Run existing test with coverage option located inside `MoneySavingCalculatorTest`.
 All test should pass and you should notice 100% coverage.
 
-
-
 # Exercise
 
 1. Try to implement rest of `SavingFrequency` values so it calculates right values and keeps 100% coverage.
@@ -20,8 +18,17 @@ If I am saving 1.23 PLN each day for next 138 days, I should save `169.74 PLN`
 If I am saving 2 PLN each week for next 100 days, I should save `28 PLN` 
 and so on...
 ```
-3. More advance version should allow to estimate savings in long term based on ROI percentage value. Example:
+3. More advance version should allow to estimate savings in long term based on ROI percentage value. Assume it is ROI value assigned to given period:
+Example:
 ```
-If I am saving 10 PLN each week for next 10 years, and put it on 3% bank saving account I should save `6055.46 PLN` 
+John is saving 100$ each month instead spending it on cigaretes and invest it with ROI equal to 1%/month 
+How much money do he get after 5 years?
+1 month - he puts 100$ on account
+2 month - he gets 101$ from first month and puts another 100$ on account, so he has 201$ for now
+3 month - he gets 203,01$ from previous months and puts another 100$, so now he has 303,01$
+4 month - he gets 306,04$ from previous months and puts another 100$, so now he has 406,04$
+5 month - he gets 410,10$ from previous months and puts another 100$, so now he has 510,10$
+...
+60 month - he gets 8248,63$ from previous months and puts another 100$, so now he has 8348,63$
 ```
-Check out this online calculator which might help you to develop right solution [https://financialmentor.com/calculator/latte-factor-calculator](https://financialmentor.com/calculator/latte-factor-calculator)
+
