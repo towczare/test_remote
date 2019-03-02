@@ -1,4 +1,4 @@
-package foo.bar.meteorology.alarm;
+package foo.bar.meteorology.weather.alarm;
 
 enum WeatherAlarmLevel {
 

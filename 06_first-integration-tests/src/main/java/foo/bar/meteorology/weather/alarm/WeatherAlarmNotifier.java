@@ -1,4 +1,4 @@
-package foo.bar.meteorology.alarm;
+package foo.bar.meteorology.weather.alarm;
 
 import foo.bar.meteorology.weather.Weather;
 import foo.bar.meteorology.weather.WeatherService;

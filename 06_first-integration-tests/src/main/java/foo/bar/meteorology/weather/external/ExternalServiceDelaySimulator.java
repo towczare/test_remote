@@ -8,6 +8,14 @@ public class ExternalServiceDelaySimulator {
     private static Random rand = new Random();
 
 
+    public static void simulateDelayOfExternalService(int maxDelayTime) {
+        try {
+            Thread.sleep(rand.nextInt(maxDelayTime));
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
     public static void simulateDelayOfExternalService() {
         try {
             Thread.sleep(rand.nextInt(MAX_SERVICE_DELAY_TIME));
