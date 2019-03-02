@@ -8,3 +8,5 @@ Each module contains simple example and exercises to solve.
 3. **[03_converters-tests](03_converters-tests/README.md)** - introducing simple exception testing, `assertThrows`
 4. **[04_smog-tests](04_smog-tests/README.md)** - introducing Junit5 lifecycle methods, `@BeforeAll`, `@BeforeEach`, `@AfterAll`, `@AfterEach`
 5. **[05_coverage-tests](05_coverage-tests/README.md)** - introducing coverage feature for tests
+6. **[06_first-integration-tests](06_first-integration-tests/README.md)** - introducing integration tests with mocking, `Mockito`
+7. **[07_tdd-tests](07_tdd-tests/README.md)** - introducing tdd with famous Uncle Bob Bowling Kata
