@@ -43,3 +43,19 @@ Each step is commited as separate branch name:
 * [tdd_12](https://github.com/towczare/unit-testing-sda/tree/tdd_12) - implementing strike logic to make new test pass
 * [tdd_13](https://github.com/towczare/unit-testing-sda/tree/tdd_13) - final refactoring of code and adding perfect game test
 
+# Exercise
+
+![Tarcza_punktowanie.jpg](images/Tarcza_punktowanie.jpg)
+
+Using TDD rules, try to implement very basic `Dart 501` score system logic. 
+Here is some requirements needs to be implemented:
+- method should allow to pass as parameters all possible combinations of shield fragments you can hit. Example:
+-- `19 SINGLE`
+-- `20 TRIPPLE`
+-- `5 DOUBLE`
+-- `50 BULLSEYE`
+...
+- `DartGame` should store current player score (new game starts from 501)
+- `DartGame` should not allow to substract points when 3 throws are making bigger round score than current game score:
+- current score is `20 points` we are throwing 5 single, 10 single, 5 double, new score should be still 20 points
+- your last points should be gained by throwing in double pointed score
