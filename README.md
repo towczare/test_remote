@@ -1,5 +1,7 @@
 # Unit testing
 
+[Jest też dostępna polska wersja](README.pl.md)
+
 This repository contains various examples of tests used for learning purposes of JUnit5.
 Each module contains simple example and exercises to solve.
 

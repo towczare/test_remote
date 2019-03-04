@@ -1,5 +1,7 @@
 # 03_converters-tests
 
+[Jest też dostępna polska wersja](README.pl.md)
+
 Run existing test located inside `LengthTests`. It should pass.
 
 # Exercise

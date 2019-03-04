@@ -1,4 +1,5 @@
 # 07_tdd-tests
+[Jest też dostępna polska wersja](README.pl.md)
 
 ## Bowling Kata
 

@@ -1,7 +1,8 @@
 # 01_calculator-tests
 
-Run existing test located inside `CalculatorTests`. It should pass.
+[Jest też dostępna polska wersja](README.pl.md)
 
+Run existing test located inside `CalculatorTests`. It should pass.
 
 # Exercise
 

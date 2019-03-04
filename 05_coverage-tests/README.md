@@ -1,4 +1,5 @@
 # 05_coverage-tests
+[Jest też dostępna polska wersja](README.pl.md)
 
 Have you ever heard of Latte Factor? Here is couple links explaining this term:
 * [https://www.modestmoney.com/the-latte-factor/1283](https://www.modestmoney.com/the-latte-factor/1283)

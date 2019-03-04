@@ -1,10 +1,10 @@
 # 06_first-integration
+[Jest też dostępna polska wersja](README.pl.md)
 
 1. Go to `BlockchainHashGeneratorTest` class and run all tests.
 2. Both are the same test except, one of them is mocked and second isn't.
 3. Compare time of executions. Do you see difference?
-
-4. Then run single test located in `WeatherServiceTest` It passes, but did you notice strange time of execution?
+4. Then run single test located in `WeatherServiceTest` It passes, but did you notice strange time of execution? What if there was more tests like 200 or 300?
 
 # Exercise
 1. First thing you need to do is make simple measuring what how long time takes average execution of this test.

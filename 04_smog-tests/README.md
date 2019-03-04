@@ -1,4 +1,5 @@
 # 04_smog-tests
+[Jest też dostępna polska wersja](README.pl.md)
 
 Run existing test located inside `FizzBuzzTest`.
 All test should pass. 

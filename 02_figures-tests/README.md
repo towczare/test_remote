@@ -1,7 +1,7 @@
 # 02_figures-tests
+[Jest też dostępna polska wersja](README.pl.md)
 
 Run existing test located inside `SquareTests`. It should pass.
-
 
 # Exercise
 
