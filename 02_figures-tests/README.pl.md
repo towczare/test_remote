@@ -3,10 +3,9 @@
 
 Uruchom istniejący test znajdujący się wewnątrz `SquareTests`. Powinien przejść.
 
-
 # Ćwiczenie
 
-1. Utwórz nową implementację interfejsu `Figure` o nazwie` Rectangle`. Powinien przyjmować dwa parametry w konstruktorze `int a` i` int b`
+1. Utwórz nową implementację interfejsu `Figure` o nazwie` Rectangle`. Powinien przyjmować dwa parametry w konstruktorze `int a` i `int b`
 2. Zapomnij na chwilę o implementacji kodu. Po prostu spraw aby się skompilowały, aby to osiągnąć obie metody mogą zwrócić 0 lub -1.
 3. Stwórz 1 sparametryzowany test oparty na klasie `SquareTests`.
 4. Twoje testy powinny zakończyć się niepowodzeniem, ponieważ nie wdrożyliśmy jeszcze prawidłowych metod.
