@@ -15,4 +15,4 @@ Uruchom istniejący test znajdujący się wewnątrz `SquareTests`. Powinien prze
 * trójkąt
 * kółko - możesz założyć, że π jest równe `3.14`
 * trapez
-7. Nie martw się, jeśli zapomnisz o jakiejś formule. Pamiętaj, że w pracy bardzo często będziesz mógł korzystać z z google, aby coś sobie przypomnieć :-)
+7. Nie martw się, jeśli zapomnisz o jakimś wzorze ze szkoły podstawowej. Pamiętaj, że w pracy bardzo często będziesz mógł, a nawet powinieneś korzystać z internetu :-)
