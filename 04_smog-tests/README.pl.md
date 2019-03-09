@@ -15,7 +15,7 @@ Spójrz na dane zdjęcie:
 
 1. Przejdź do `PmAlarmServiceTest` i przeprowadź trzy testy.
 2. Jak można zauważyć, dla każdego testu utworzono instancję `PmAlarmService`.
-3. Zastąp wszystkie trzy wystąpienia instancji jedną przy użyciu odpowiedniej adnotacji (spójrz na `BeforeAfterEachAllAnnotationsDemoTest` jako wskazówka)
+3. Zastąp wszystkie trzy wystąpienia instancji jedną przy użyciu odpowiedniej adnotacji (spójrz na `FizzBuzzTest` jako wskazówkę)
 4. Utwórz zmienną `timeExecution`, która będzie używana do przechowywania wartości czasu wykonania dla wszystkich uruchomionych testów. Wydrukuj go na ostatnim etapie po wykonaniu całego testu.
 5. Wdrożyć logikę dla 3 krajów z brakujących krajów i pokryj ją odpowiednimi testami.
 6. Na tym etapie powinniśmy zauważyć, że ten projekt zmierza w złym kierunku.

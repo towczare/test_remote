@@ -15,7 +15,7 @@ Source: [https://www.polskialarmsmogowy.pl/polski-alarm-smogowy/smog/szczegoly,p
 
 1. Go to `PmAlarmServiceTest` and run three tests.
 2. As you can notice, for each test, there is `PmAlarmService` instance created.
-3. Replace all 3 instance creations with one using right annotation (take a look for `BeforeAfterEachAllAnnotationsDemoTest` for hints)
+3. Replace all 3 instance creations with one using right annotation (take a look for `FizzBuzzTest` for hints)
 4. Create `timeExecution` variable which will be used to store time execution value for all tests run. Print it on the last step when all test has been executed.
 5. Implement logic for 3 missing countries and cover it with proper tests.
 6. We should see at this point, this design is going in the wrong direction.
