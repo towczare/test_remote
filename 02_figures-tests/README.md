@@ -5,6 +5,7 @@ Run existing test located inside `SquareTests`. It should pass.
 
 # Exercise
 
+0. Add missing test to `circumference` method.
 1. Create new implementation of `Figure` interface called `Rectangle`. It should get two parameters in constructor `int a` and `int b`
 2. Forget for a while about implementation of code. Make them just compile, so both required methods can return 0 or -1.
 3. Create 1 parametrized test based on `SquareTests` class.
