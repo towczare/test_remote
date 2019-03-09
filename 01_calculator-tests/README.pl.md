@@ -13,9 +13,9 @@ Uruchom istniejący test znajdujący się wewnątrz `CalculatorTests`. Powinien 
 -1 + 5
 ...
 ```
-2. Dodaj nową metodę o nazwie `extract` do klasy` Calculator`.
+2. Dodaj nową metodę o nazwie `substract` do klasy` Calculator`.
 ```
-public int extract (int a, int b) {
+public int substract (int a, int b) {
      return -1;
 }
 ```
