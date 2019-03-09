@@ -16,5 +16,5 @@ Uruchom istniejący test znajdujący się wewnątrz `LengthTests`. Powinien prze
 * `Kelvin` to `Fahrenheit`
 * `Fahrenheit` to `Celsius`
 * `Fahrenheit` to `Kelvin`
-4. Każda z powyższych klas powinna generować wyjątek `InvalidParameterException`, gdy wartość jest wyższa niż `300` lub niższa niż `-300`
+4. Każda z powyższych klas powinna generować wyjątek `InvalidParameterException`, gdy wartość niższa niż `-273,15 °C` lub odpowiadające temperatury w innej skali.
 5. Dodaj testy obejmujące tę metodę.
