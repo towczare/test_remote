@@ -5,6 +5,7 @@ Uruchom istniejący test znajdujący się wewnątrz `SquareTests`. Powinien prze
 
 # Ćwiczenie
 
+0. Dodać test testujący metodę obliczania obwodu.
 1. Utwórz nową implementację interfejsu `Figure` o nazwie` Rectangle`. Powinien przyjmować dwa parametry w konstruktorze `int a` i `int b`
 2. Zapomnij na chwilę o implementacji kodu. Po prostu spraw aby się skompilowały, aby to osiągnąć obie metody mogą zwrócić 0 lub -1.
 3. Stwórz 1 sparametryzowany test oparty na klasie `SquareTests`.
