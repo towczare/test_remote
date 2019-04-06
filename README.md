@@ -12,3 +12,5 @@ Each module contains simple example and exercises to solve.
 5. **[05_coverage-tests](05_coverage-tests/README.md)** - introducing coverage feature for tests
 6. **[06_first-integration-tests](06_first-integration-tests/README.md)** - introducing integration tests with mocking, `Mockito`
 7. **[07_tdd-tests](07_tdd-tests/README.md)** - introducing tdd with famous Uncle Bob Bowling Kata
+
+8. blok
