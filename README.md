@@ -5,6 +5,7 @@
 This repository contains various examples of tests used for learning purposes of JUnit5.
 Each module contains simple example and exercises to solve.
 
+
 1. **[01_calculator-tests](01_calculator-tests/README.md)** - introduction to Junit5 tests, `@Test`
 2. **[02_figures-tests](02_figures-tests/README.md)** - introducing parametrized tests, `@ParametrizedTest`
 3. **[03_converters-tests](03_converters-tests/README.md)** - introducing simple exception testing, `assertThrows`
